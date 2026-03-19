@@ -1,5 +1,5 @@
 {
   "name": "@globoticket/ticket-service",
   "version": "1.0.0",
-  "dependencies": { "@globoticket/common": "1.0.1" }
+  "dependencies": { "@globoticket/common": "2.0.0" }
 }
